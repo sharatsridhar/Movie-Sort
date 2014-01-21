@@ -1,3 +1,4 @@
+#Author: Sharat Sridhar
 class Movies
 	attr_accessor :rating, :movie_id
 	@@movies_db = Hash.new
